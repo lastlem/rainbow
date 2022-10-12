@@ -1,0 +1,10 @@
+[
+  {"widget": "Board"},
+  {"widget": "Colorbutton", "text": 1, "color": "Red"},
+  {"widget": "Colorbutton", "text": 2, "color": "Orange"},
+  {"widget": "Colorbutton", "text": 3, "color": "Yellow"},
+  {"widget": "Colorbutton", "text": 4, "color": "Green"},
+  {"widget": "Colorbutton", "text": 5, "color": "Light Blue"},
+  {"widget": "Colorbutton", "text": 6, "color": "Blue"},
+  {"widget": "Colorbutton", "text": 7, "color": "Purple"}
+]
